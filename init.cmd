@@ -27,6 +27,6 @@
 	SET path=%PATH%;J:\PSTools
 	
 	::Git
-	SET path=%PATH%;%LOCALAPPDATA%\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd
+	SET path=%PATH%;%LOCALAPPDATA%\GitHub\PortableGit_\cmd
 	
 @ECHO ON
